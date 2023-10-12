@@ -1,0 +1,22 @@
+.app-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    color: skyblue;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.paragraph{
+    color: darkblue;
+    font-family: "Lobster";
+    font-weight: normal;
+}
+.button{
+    background-color: lightcoral;
+    color: #ffffff;
+    border:2px solid lightgreen;
+    outline:none;
+}
